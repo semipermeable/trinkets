@@ -1,2 +1,3 @@
-address.py:  converts an iPhone backup AddressBook SQLite3 DB into a CSV file
-suitable for importing into Address Book on the Mac.
+address.py: 
+ converts an iPhone backup AddressBook SQLite3 DB into a CSV file
+ suitable for importing into Address Book on the Mac.
